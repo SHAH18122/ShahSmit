@@ -4,4 +4,4 @@ My Website(CV)
 
 
 
-This Repo Contains My Resume hosting on WEbsite.
+This Repo Contains My Resume hosting on Website.
